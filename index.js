@@ -1,9 +1,17 @@
 const express = require("express");
 const app = express();
 var cors = require('cors')
+const path = require("path");
+app.set("view engine", "ejs");
+app.set("views", path.join(__dirname, "/views"));
 
 app.listen(4000, () => {
   console.log("Server is running on port 4000");
+});
+
+
+app.get("/", (req, res) => {
+    res.render("index");
 });
 app.use(cors())
 const Indore_Areas= [
