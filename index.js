@@ -3048,7 +3048,201 @@ const delhidata =
           "rape": 3,
           "total_crimes": 20
       }
-  }
+  },{
+    "count": 1,
+    "name": "Indirapuram",
+    "latitude": 28.6139,
+    "longitude": 77.3673,
+    "safety_grade": "A",
+    "crime_statistics": {
+        "theft": 5,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 6
+    }
+},
+{
+    "count": 2,
+    "name": "Vaishali",
+    "latitude": 28.6345,
+    "longitude": 77.3000,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 10,
+        "murder": 1,
+        "rape": 0,
+        "total_crimes": 11
+    }
+},
+{
+    "count": 3,
+    "name": "Nehru Nagar",
+    "latitude": 28.6692,
+    "longitude": 77.4330,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 15,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 18
+    }
+},
+{
+    "count": 4,
+    "name": "Sahibabad",
+    "latitude": 28.6350,
+    "longitude": 77.3005,
+    "safety_grade": "C",
+    "crime_statistics": {
+        "theft": 20,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 25
+    }
+},
+{
+    "count": 5,
+    "name": "Crossings Republik",
+    "latitude": 28.6100,
+    "longitude": 77.4000,
+    "safety_grade": "A",
+    "crime_statistics": {
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
+    }
+},
+{
+    "count": 6,
+    "name": "Raj Nagar",
+    "latitude": 28.6610,
+    "longitude": 77.4380,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 8,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 9
+    }
+},
+{
+    "count": 7,
+    "name": "Kavi Nagar",
+    "latitude": 28.6690,
+    "longitude": 77.4330,
+    "safety_grade": "C",
+    "crime_statistics": {
+        "theft": 12,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 15
+    }
+},
+{
+    "count": 8,
+    "name": "Shalimar Garden",
+    "latitude": 28.6500,
+    "longitude": 77.3000,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 7,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 8
+    }
+},
+{
+    "count": 9,
+    "name": "Ghaziabad City",
+    "latitude": 28.6690,
+    "longitude": 77.4500,
+    "safety_grade": "A",
+    "crime_statistics": {
+        "theft": 4,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 4
+    }
+},
+{
+    "count": 10,
+    "name": "Loni",
+    "latitude": 28.6700,
+    "longitude": 77.2900,
+    "safety_grade": "C",
+    "crime_statistics": {
+        "theft": 25,
+        "murder": 3,
+        "rape": 4,
+        "total_crimes": 32
+    }
+},
+{
+    "count": 11,
+    "name": "Dasna",
+    "latitude": 28.7000,
+    "longitude": 77.4000,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 6,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 7
+    }
+},
+{
+    "count": 12,
+    "name": "Mohan Nagar",
+    "latitude": 28.6500,
+    "longitude": 77.4000,
+    "safety_grade": "A",
+    "crime_statistics": {
+        "theft": 2,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 2
+    }
+},
+{
+    "count": 13,
+    "name": "Siddharth Vihar",
+    "latitude": 28.6100,
+    "longitude": 77.3700,
+    "safety_grade": "A",
+    "crime_statistics": {
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
+    }
+},
+{
+    "count": 14,
+    "name": "Gyan Khand",
+    "latitude": 28.6500,
+    "longitude": 77.3000,
+    "safety_grade": "B",
+    "crime_statistics": {
+        "theft": 9,
+        "murder": 1,
+        "rape": 1,
+        "total_crimes": 11
+    }
+},
+{
+    "count": 15,
+    "name": "Shahpur",
+    "latitude": 28.6700,
+    "longitude": 77.2900,
+    "safety_grade": "C",
+    "crime_statistics": {
+        "theft": 15,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 20
+    }
+}
   ]
 app.get("/indore", (req, res) => {
   res.json(Indore_Areas);
