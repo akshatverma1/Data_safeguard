@@ -2861,388 +2861,703 @@ const delhidata =
       "longitude": 77.3673,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 5,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 6
+        "theft": 5,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 6
       }
-  },
-  {
+    },
+    {
       "count": 2,
       "name": "Vaishali",
       "latitude": 28.6345,
       "longitude": 77.3000,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 10,
-          "murder": 1,
-          "rape": 0,
-          "total_crimes": 11
+        "theft": 10,
+        "murder": 1,
+        "rape": 0,
+        "total_crimes": 11
       }
-  },
-  {
+    },
+    {
       "count": 3,
       "name": "Nehru Nagar",
       "latitude": 28.6692,
       "longitude": 77.4330,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
+        "theft": 15,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 18
       }
-  },
-  {
+    },
+    {
       "count": 4,
       "name": "Sahibabad",
       "latitude": 28.6350,
       "longitude": 77.3005,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 20,
-          "murder": 2,
-          "rape": 3,
-          "total_crimes": 25
+        "theft": 20,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 25
       }
-  },
-  {
+    },
+    {
       "count": 5,
       "name": "Crossings Republik",
       "latitude": 28.6100,
       "longitude": 77.4000,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 3,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 3
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
       }
-  },
-  {
+    },
+    {
       "count": 6,
       "name": "Raj Nagar",
       "latitude": 28.6610,
       "longitude": 77.4380,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 8,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 9
+        "theft": 8,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 9
       }
-  },
-  {
+    },
+    {
       "count": 7,
       "name": "Kavi Nagar",
       "latitude": 28.6690,
       "longitude": 77.4330,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 12,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 15
+        "theft": 12,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 15
       }
-  },
-  {
+    },
+    {
       "count": 8,
       "name": "Shalimar Garden",
       "latitude": 28.6500,
       "longitude": 77.3000,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 7,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 8
+        "theft": 7,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 8
       }
-  },
-  {
+    },
+    {
       "count": 9,
       "name": "Ghaziabad City",
       "latitude": 28.6690,
       "longitude": 77.4500,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 4,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 4
+        "theft": 4,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 4
       }
-  },
-  {
+    },
+    {
       "count": 10,
       "name": "Loni",
       "latitude": 28.6700,
       "longitude": 77.2900,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 25,
-          "murder": 3,
-          "rape": 4,
-          "total_crimes": 32
+        "theft": 25,
+        "murder": 3,
+        "rape": 4,
+        "total_crimes": 32
       }
-  },
-  {
+    },
+    {
       "count": 11,
       "name": "Dasna",
       "latitude": 28.7000,
       "longitude": 77.4000,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 6,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 7
+        "theft": 6,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 7
       }
-  },
-  {
+    },
+    {
       "count": 12,
       "name": "Mohan Nagar",
       "latitude": 28.6500,
       "longitude": 77.4000,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 2,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 2
+        "theft": 2,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 2
       }
-  },
-  {
+    },
+    {
       "count": 13,
       "name": "Siddharth Vihar",
       "latitude": 28.6100,
       "longitude": 77.3700,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 3,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 3
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
       }
-  },
-  {
+    },
+    {
       "count": 14,
       "name": "Gyan Khand",
       "latitude": 28.6500,
       "longitude": 77.3000,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 9,
-          "murder": 1,
-          "rape": 1,
-          "total_crimes": 11
+        "theft": 9,
+        "murder": 1,
+        "rape": 1,
+        "total_crimes": 11
       }
-  },
-  {
+    },
+    {
       "count": 15,
       "name": "Shahpur",
       "latitude": 28.6700,
       "longitude": 77.2900,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 15,
-          "murder": 2,
-          "rape": 3,
-          "total_crimes": 20
-      }
-  },{
-    "count": 1,
-    "name": "Indirapuram",
-    "latitude": 28.6139,
-    "longitude": 77.3673,
-    "safety_grade": "A",
-    "crime_statistics": {
-        "theft": 5,
-        "murder": 0,
-        "rape": 1,
-        "total_crimes": 6
-    }
-},
-{
-    "count": 2,
-    "name": "Vaishali",
-    "latitude": 28.6345,
-    "longitude": 77.3000,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 10,
-        "murder": 1,
-        "rape": 0,
-        "total_crimes": 11
-    }
-},
-{
-    "count": 3,
-    "name": "Nehru Nagar",
-    "latitude": 28.6692,
-    "longitude": 77.4330,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 15,
-        "murder": 1,
-        "rape": 2,
-        "total_crimes": 18
-    }
-},
-{
-    "count": 4,
-    "name": "Sahibabad",
-    "latitude": 28.6350,
-    "longitude": 77.3005,
-    "safety_grade": "C",
-    "crime_statistics": {
-        "theft": 20,
-        "murder": 2,
-        "rape": 3,
-        "total_crimes": 25
-    }
-},
-{
-    "count": 5,
-    "name": "Crossings Republik",
-    "latitude": 28.6100,
-    "longitude": 77.4000,
-    "safety_grade": "A",
-    "crime_statistics": {
-        "theft": 3,
-        "murder": 0,
-        "rape": 0,
-        "total_crimes": 3
-    }
-},
-{
-    "count": 6,
-    "name": "Raj Nagar",
-    "latitude": 28.6610,
-    "longitude": 77.4380,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 8,
-        "murder": 0,
-        "rape": 1,
-        "total_crimes": 9
-    }
-},
-{
-    "count": 7,
-    "name": "Kavi Nagar",
-    "latitude": 28.6690,
-    "longitude": 77.4330,
-    "safety_grade": "C",
-    "crime_statistics": {
-        "theft": 12,
-        "murder": 1,
-        "rape": 2,
-        "total_crimes": 15
-    }
-},
-{
-    "count": 8,
-    "name": "Shalimar Garden",
-    "latitude": 28.6500,
-    "longitude": 77.3000,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 7,
-        "murder": 0,
-        "rape": 1,
-        "total_crimes": 8
-    }
-},
-{
-    "count": 9,
-    "name": "Ghaziabad City",
-    "latitude": 28.6690,
-    "longitude": 77.4500,
-    "safety_grade": "A",
-    "crime_statistics": {
-        "theft": 4,
-        "murder": 0,
-        "rape": 0,
-        "total_crimes": 4
-    }
-},
-{
-    "count": 10,
-    "name": "Loni",
-    "latitude": 28.6700,
-    "longitude": 77.2900,
-    "safety_grade": "C",
-    "crime_statistics": {
-        "theft": 25,
-        "murder": 3,
-        "rape": 4,
-        "total_crimes": 32
-    }
-},
-{
-    "count": 11,
-    "name": "Dasna",
-    "latitude": 28.7000,
-    "longitude": 77.4000,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 6,
-        "murder": 0,
-        "rape": 1,
-        "total_crimes": 7
-    }
-},
-{
-    "count": 12,
-    "name": "Mohan Nagar",
-    "latitude": 28.6500,
-    "longitude": 77.4000,
-    "safety_grade": "A",
-    "crime_statistics": {
-        "theft": 2,
-        "murder": 0,
-        "rape": 0,
-        "total_crimes": 2
-    }
-},
-{
-    "count": 13,
-    "name": "Siddharth Vihar",
-    "latitude": 28.6100,
-    "longitude": 77.3700,
-    "safety_grade": "A",
-    "crime_statistics": {
-        "theft": 3,
-        "murder": 0,
-        "rape": 0,
-        "total_crimes": 3
-    }
-},
-{
-    "count": 14,
-    "name": "Gyan Khand",
-    "latitude": 28.6500,
-    "longitude": 77.3000,
-    "safety_grade": "B",
-    "crime_statistics": {
-        "theft": 9,
-        "murder": 1,
-        "rape": 1,
-        "total_crimes": 11
-    }
-},
-{
-    "count": 15,
-    "name": "Shahpur",
-    "latitude": 28.6700,
-    "longitude": 77.2900,
-    "safety_grade": "C",
-    "crime_statistics": {
         "theft": 15,
         "murder": 2,
         "rape": 3,
         "total_crimes": 20
+      }
+    }, {
+      "count": 1,
+      "name": "Indirapuram",
+      "latitude": 28.6139,
+      "longitude": 77.3673,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 5,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 6
+      }
+    },
+    {
+      "count": 2,
+      "name": "Vaishali",
+      "latitude": 28.6345,
+      "longitude": 77.3000,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 10,
+        "murder": 1,
+        "rape": 0,
+        "total_crimes": 11
+      }
+    },
+    {
+      "count": 3,
+      "name": "Nehru Nagar",
+      "latitude": 28.6692,
+      "longitude": 77.4330,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 15,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 18
+      }
+    },
+    {
+      "count": 4,
+      "name": "Sahibabad",
+      "latitude": 28.6350,
+      "longitude": 77.3005,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 20,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 25
+      }
+    },
+    {
+      "count": 5,
+      "name": "Crossings Republik",
+      "latitude": 28.6100,
+      "longitude": 77.4000,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
+      }
+    },
+    {
+      "count": 6,
+      "name": "Raj Nagar",
+      "latitude": 28.6610,
+      "longitude": 77.4380,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 8,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 9
+      }
+    },
+    {
+      "count": 7,
+      "name": "Kavi Nagar",
+      "latitude": 28.6690,
+      "longitude": 77.4330,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 12,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 15
+      }
+    },
+    {
+      "count": 8,
+      "name": "Shalimar Garden",
+      "latitude": 28.6500,
+      "longitude": 77.3000,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 7,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 8
+      }
+    },
+    {
+      "count": 9,
+      "name": "Ghaziabad City",
+      "latitude": 28.6690,
+      "longitude": 77.4500,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 4,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 4
+      }
+    },
+    {
+      "count": 10,
+      "name": "Loni",
+      "latitude": 28.6700,
+      "longitude": 77.2900,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 25,
+        "murder": 3,
+        "rape": 4,
+        "total_crimes": 32
+      }
+    },
+    {
+      "count": 11,
+      "name": "Dasna",
+      "latitude": 28.7000,
+      "longitude": 77.4000,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 6,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 7
+      }
+    },
+    {
+      "count": 12,
+      "name": "Mohan Nagar",
+      "latitude": 28.6500,
+      "longitude": 77.4000,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 2,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 2
+      }
+    },
+    {
+      "count": 13,
+      "name": "Siddharth Vihar",
+      "latitude": 28.6100,
+      "longitude": 77.3700,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 3,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 3
+      }
+    },
+    {
+      "count": 14,
+      "name": "Gyan Khand",
+      "latitude": 28.6500,
+      "longitude": 77.3000,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 9,
+        "murder": 1,
+        "rape": 1,
+        "total_crimes": 11
+      }
+    },
+    {
+      "count": 15,
+      "name": "Shahpur",
+      "latitude": 28.6700,
+      "longitude": 77.2900,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 15,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 20
+      }
+    },
+
+    {
+      "count": 63,
+      "name": "Rohini Sector 1",
+      "latitude": 28.7523,
+      "longitude": 77.1187,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 18,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 21
+      }
+    },
+    {
+      "count": 64,
+      "name": "Rohini Sector 2",
+      "latitude": 28.7465,
+      "longitude": 77.1224,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 25,
+        "murder": 3,
+        "rape": 4,
+        "total_crimes": 32
+      }
+    },
+    {
+      "count": 65,
+      "name": "Rohini Sector 3",
+      "latitude": 28.7412,
+      "longitude": 77.1279,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 8,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 9
+      }
+    },
+    {
+      "count": 66,
+      "name": "Rohini Sector 4",
+      "latitude": 28.7367,
+      "longitude": 77.1325,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 15,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 18
+      }
+    },
+    {
+      "count": 67,
+      "name": "Rohini Sector 5",
+      "latitude": 28.7298,
+      "longitude": 77.1382,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 28,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 33
+      }
+    },
+    {
+      "count": 68,
+      "name": "Rohini Sector 7",
+      "latitude": 28.7234,
+      "longitude": 77.1436,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 6,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 6
+      }
+    },
+    {
+      "count": 69,
+      "name": "Rohini Sector 8",
+      "latitude": 28.7179,
+      "longitude": 77.1492,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 12,
+        "murder": 1,
+        "rape": 1,
+        "total_crimes": 14
+      }
+    },
+    {
+      "count": 70,
+      "name": "Rohini Sector 9",
+      "latitude": 28.7123,
+      "longitude": 77.1548,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 22,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 27
+      }
+    },
+    {
+      "count": 71,
+      "name": "Rohini Sector 10",
+      "latitude": 28.7065,
+      "longitude": 77.1603,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 7,
+        "murder": 0,
+        "rape": 1,
+        "total_crimes": 8
+      }
+    },
+    {
+      "count": 72,
+      "name": "Rohini Sector 11",
+      "latitude": 28.7002,
+      "longitude": 77.1659,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 14,
+        "murder": 1,
+        "rape": 2,
+        "total_crimes": 17
+      }
+    },
+    {
+      "count": 73,
+      "name": "Rohini Sector 12",
+      "latitude": 28.6948,
+      "longitude": 77.1715,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 24,
+        "murder": 3,
+        "rape": 4,
+        "total_crimes": 31
+      }
+    },
+    {
+      "count": 74,
+      "name": "Rohini Sector 13",
+      "latitude": 28.6891,
+      "longitude": 77.1772,
+      "safety_grade": "A",
+      "crime_statistics": {
+        "theft": 5,
+        "murder": 0,
+        "rape": 0,
+        "total_crimes": 5
+      }
+    },
+    {
+      "count": 75,
+      "name": "Rohini Sector 14",
+      "latitude": 28.6834,
+      "longitude": 77.1829,
+      "safety_grade": "B",
+      "crime_statistics": {
+        "theft": 16,
+        "murder": 1,
+        "rape": 1,
+        "total_crimes": 18
+      }
+    },
+    {
+      "count": 76,
+      "name": "Rohini Sector 15",
+      "latitude": 28.6776,
+      "longitude": 77.1885,
+      "safety_grade": "C",
+      "crime_statistics": {
+        "theft": 27,
+        "murder": 2,
+        "rape": 3,
+        "total_crimes": 32
+      }
     }
-}
+   ,
+      {
+        "count": 64,
+        "name": "Punjabi Bagh Main",
+        "latitude": 28.6700,
+        "longitude": 77.1250,
+        "safety_grade": "B",
+        "crime_statistics": {
+          "theft": 18,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 21
+        }
+      },
+      {
+        "count": 65,
+        "name": "Punjabi Bagh Extension",
+        "latitude": 28.6750,
+        "longitude": 77.1300,
+        "safety_grade": "A",
+        "crime_statistics": {
+          "theft": 12,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 13
+        }
+      },
+      {
+        "count": 66,
+        "name": "Punjabi Bagh West",
+        "latitude": 28.6725,
+        "longitude": 77.1150,
+        "safety_grade": "C",
+        "crime_statistics": {
+          "theft": 25,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 30
+        }
+      },
+      {
+        "count": 67,
+        "name": "Punjabi Bagh East",
+        "latitude": 28.6680,
+        "longitude": 77.1350,
+        "safety_grade": "B",
+        "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 17
+        }
+      },
+      {
+        "count": 68,
+        "name": "Punjabi Bagh South",
+        "latitude": 28.6650,
+        "longitude": 77.1200,
+        "safety_grade": "A",
+        "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 8
+        }
+      },
+      {
+        "count": 69,
+        "name": "Punjabi Bagh North",
+        "latitude": 28.6800,
+        "longitude": 77.1275,
+        "safety_grade": "B",
+        "crime_statistics": {
+          "theft": 14,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 17
+        }
+      },
+      {
+        "count": 70,
+        "name": "Rajapuri",
+        "latitude": 28.6730,
+        "longitude": 77.1225,
+        "safety_grade": "C",
+        "crime_statistics": {
+          "theft": 22,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 29
+        }
+      },
+      {
+        "count": 71,
+        "name": "Club Road",
+        "latitude": 28.6675,
+        "longitude": 77.1320,
+        "safety_grade": "A",
+        "crime_statistics": {
+          "theft": 6,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+        }
+      },
+      {
+        "count": 72,
+        "name": "Punjabi Bagh Market",
+        "latitude": 28.6695,
+        "longitude": 77.1280,
+        "safety_grade": "B",
+        "crime_statistics": {
+          "theft": 16,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 19
+        }
+      },
+      {
+        "count": 73,
+        "name": "Punjabi Bagh Railway Colony",
+        "latitude": 28.6770,
+        "longitude": 77.1190,
+        "safety_grade": "A",
+        "crime_statistics": {
+          "theft": 7,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 7
+        }
+      }
+
   ]
 app.get("/indore", (req, res) => {
   res.json(Indore_Areas);
