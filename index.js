@@ -2045,7 +2045,8 @@ const Bhopal_Areas = [
       }
   }
 ];
-const delhidata = 
+
+const delhidata=
 [
   {
       "count": 1,
@@ -2543,19 +2544,6 @@ const delhidata =
   },
   {
       "count": 39,
-      "name": "Khanpur",
-      "latitude": 28.5500,
-      "longitude": 77.2000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 10,
-          "murder": 1,
-          "rape": 1,
-          "total_crimes": 12
-      }
-  },
-  {
-      "count": 40,
       "name": "Sadar Bazar",
       "latitude": 28.6500,
       "longitude": 77.2000,
@@ -2568,7 +2556,7 @@ const delhidata =
       }
   },
   {
-      "count": 41,
+      "count": 40,
       "name": "Kalkaji",
       "latitude": 28.5500,
       "longitude": 77.2500,
@@ -2581,7 +2569,7 @@ const delhidata =
       }
   },
   {
-      "count": 42,
+      "count": 41,
       "name": "Chattarpur",
       "latitude": 28.5000,
       "longitude": 77.2000,
@@ -2594,20 +2582,20 @@ const delhidata =
       }
   },
   {
-      "count": 43,
+      "count": 42,
       "name": "Sultanpur",
       "latitude": 28.5500,
       "longitude": 77.2000,
       "safety_grade": "A",
       "crime_statistics": {
           "theft": 6,
-          " murder": 0,
+          "murder": 0,
           "rape": 1,
           "total_crimes": 7
       }
   },
   {
-      "count": 44,
+      "count": 43,
       "name": "Mandi House",
       "latitude": 28.6200,
       "longitude": 77.2300,
@@ -2620,7 +2608,7 @@ const delhidata =
       }
   },
   {
-      "count": 45,
+      "count": 44,
       "name": "Rajendra Place",
       "latitude": 28.6400,
       "longitude": 77.2000,
@@ -2633,7 +2621,7 @@ const delhidata =
       }
   },
   {
-      "count": 46,
+      "count": 45,
       "name": "Dwarka Sector 12",
       "latitude": 28.5700,
       "longitude": 77.0200,
@@ -2646,7 +2634,7 @@ const delhidata =
       }
   },
   {
-      "count": 47,
+      "count": 46,
       "name": "Kapashera",
       "latitude": 28.5500,
       "longitude": 77.1000,
@@ -2659,20 +2647,7 @@ const delhidata =
       }
   },
   {
-      "count": 48,
-      "name": "Sarai Rohilla",
-      "latitude": 28.6500,
-      "longitude": 77.2000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
-      }
-  },
-  {
-      "count": 49,
+      "count": 47,
       "name": "Sadar Bazar",
       "latitude": 28.6500,
       "longitude": 77.2000,
@@ -2685,115 +2660,10 @@ const delhidata =
       }
   },
   {
-      "count": 50,
-      "name": "Chandni Chowk",
-      "latitude": 28.6550,
-      "longitude": 77.2300,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 20,
-          "murder": 2,
-          "rape": 3,
-          "total_crimes": 25
-      }
-  }
-,
-  {
-      "count": 1,
-      "name": "Connaught Place",
-      "latitude": 28.6278,
-      "longitude": 77.2197,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
-      }
-  },
-  {
-      "count": 2,
-      "name": "Chandni Chowk",
-      "latitude": 28.6550,
-      "longitude": 77.2300,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 20,
-          "murder": 2,
-          "rape": 3,
-          "total_crimes": 25
-      }
-  },
-  {
-      "count": 3,
-      "name": "Karol Bagh",
-      "latitude": 28.6460,
-      "longitude": 77.2100,
-      "safety_grade": "C",
-      "crime_statistics": {
-          "theft": 25,
-          "murder": 3,
-          "rape": 4,
-          "total_crimes": 32
-      }
-  },
-  {
-      "count": 4,
-      "name": "South Extension",
-      "latitude": 28.5770,
-      "longitude": 77.2150,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 10,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 11
-      }
-  },
-  {
-      "count": 5,
-      "name": "Lajpat Nagar",
-      "latitude": 28.5800,
-      "longitude": 77.2390,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 18,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 21
-      }
-  },
-  {
-      "count": 6,
-      "name": "Dwarka",
+      "count": 48,
+      "name": "Sector 18",
       "latitude": 28.5700,
-      "longitude": 77.0200,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 5,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 5
-      }
-  },
-  {
-      "count": 7,
-      "name": "Vasant Kunj",
-      "latitude": 28.5500,
-      "longitude": 77.1300,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 8,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 9
-      }
-  },
-  {
-      "count": 8,
-      "name": "Greater Kailash",
-      "latitude": 28.5530,
-      "longitude": 77.2230,
+      "longitude": 77.3200,
       "safety_grade": "B",
       "crime_statistics": {
           "theft": 12,
@@ -2803,75 +2673,101 @@ const delhidata =
       }
   },
   {
-      "count": 9,
-      "name": "Saket",
-      "latitude": 28.5530,
-      "longitude": 77.2500,
+      "count": 49,
+      "name": "Sector 62",
+      "latitude": 28.5850,
+      "longitude": 77.3700,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 6,
+          "theft": 8,
           "murder": 0,
           "rape": 1,
-          "total_crimes": 7
+          "total_crimes": 9
       }
   },
   {
-      "count": 10,
-      "name": "Pitampura",
-      "latitude": 28.6500,
-      "longitude": 77.1500,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 14,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 17
-      }
-  },
-  {
-      "count": 11,
-      "name": "Rohini",
-      "latitude": 28.7000,
-      "longitude": 77.1500,
+      "count": 50,
+      "name": "Sector 50",
+      "latitude": 28.5700,
+      "longitude": 77.3300,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 22,
+          "theft": 20,
           "murder": 2,
           "rape": 3,
-          "total_crimes": 27
+          "total_crimes": 25
       }
   },
   {
-      "count": 12,
-      "name": "Janakpuri",
-      "latitude": 28.6000,
-      "longitude": 77.1000,
+      "count": 51,
+      "name": "Sector 15",
+      "latitude": 28.5800,
+      "longitude": 77.3200,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 10,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 11
+          "theft": 15,
+          "murder": 1,
+          "rape": 0,
+          "total_crimes": 16
       }
   },
   {
-      "count": 13,
-      "name": "Nehru Place",
-      "latitude": 28.5800,
-      "longitude": 77.2400,
+      "count": 52,
+      "name": "Sector 12",
+      "latitude": 28.5900,
+      "longitude": 77.3200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 53,
+      "name": "Sector 63",
+      "latitude": 28.5900,
+      "longitude": 77.3700,
       "safety_grade": "A",
       "crime_statistics": {
           "theft": 7,
           "murder": 0,
-          "rape": 1,
-          "total_crimes": 8
+          "rape": 0,
+          "total_crimes": 7
       }
   },
   {
-      "count": 14,
-      "name": "Khan Market",
-      "latitude": 28.6000,
-      "longitude": 77.2200,
+      "count": 54,
+      "name": "Sector 71",
+      "latitude": 28.5900,
+      "longitude": 77.4000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 55,
+      "name": "Sector 34",
+      "latitude": 28.5800,
+      "longitude": 77.3500,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 18,
+          "murder": 2,
+          "rape": 4,
+          "total_crimes": 24
+      }
+  },
+  {
+      "count": 56,
+      "name": "Sector 14",
+      "latitude": 28.5900,
+      "longitude": 77.3100,
       "safety_grade": "A",
       "crime_statistics": {
           "theft": 3,
@@ -2881,153 +2777,23 @@ const delhidata =
       }
   },
   {
-      "count": 15,
-      "name": "Malviya Nagar",
-      "latitude": 28.5500,
-      "longitude": 77.2000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
-      }
-  },
-  {
-      "count": 16,
-      "name": "Green Park",
+      "count": 57,
+      "name": "Sector 27",
       "latitude": 28.5800,
-      "longitude": 77.2000,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 5,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 6
-      }
-  },
-  {
-      "count": 17,
-      "name": "Paharganj",
-      "latitude": 28.6400,
-      "longitude": 77.2100,
-      "safety_grade": "C",
-      "crime_statistics": {
-          "theft": 30,
-          "murder": 4,
-          "rape": 5,
-          "total_crimes": 39
-      }
-  },
-  {
-      "count": 18,
-      "name": "Kashmere Gate",
-      "latitude": 28.6550,
-      "longitude": 77.2300,
+      "longitude": 77.3200,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 20,
-          "murder": 2,
-          "rape": 3,
-          "total_crimes": 25
-      }
-  },
-  {
-      "count": 19,
-      "name": "Civil Lines",
-      "latitude": 28.6500,
-      "longitude": 77.2000,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 4,
-          "murder": 0,
+          "theft": 9,
+          "murder": 1,
           "rape": 1,
-          "total_crimes": 5
+          "total_crimes": 11
       }
   },
   {
-      "count": 20,
-      "name": "Lodhi Colony",
+      "count": 58,
+      "name": "Sector 21",
       "latitude": 28.5900,
-      "longitude": 77.2200,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 2,
-          "murder": 0,
-          "rape": 0,
-          "total_crimes": 2
-      }
-  },
-  {
-      "count": 21,
-      "name": "Shahdara",
-      "latitude": 28.6700,
-      "longitude": 77.3000,
-      "safety_grade": "C",
-      "crime_statistics": {
-          "theft": 28,
-          "murder": 3,
-          "rape": 4,
-          "total_crimes": 35
-      }
-  },
-  {
-      "count": 22,
-      "name": "Sarai Rohilla",
-      "latitude": 28.6500,
-      "longitude": 77.2000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
-      }
-  },
-  {
-      "count": 23,
-      "name": "Sultanpur",
-      "latitude": 28.5500,
-      "longitude": 77.2000,
-      "safety_grade": "A",
-      "crime_statistics": {
-          "theft": 6,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 7
-      }
-  },
-  {
-      "count": 24,
-      "name": "Okhla",
-      "latitude": 28.5500,
-      "longitude": 77.3000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 12,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 15
-      }
-  },
-  {
-      "count": 25,
-      "name": "Faridabad",
-      "latitude": 28.4000,
-      "longitude": 77.3000,
-      "safety_grade": "C",
-      "crime_statistics": {
-          "theft": 35,
-          "murder": 5,
-          "rape": 6,
-          "total_crimes": 46
-      }
-  },
-  {
-      "count": 26,
-      "name": "Dwarka Sector 21",
-      "latitude": 28.5700,
-      "longitude": 77.0200,
+      "longitude": 77.3200,
       "safety_grade": "A",
       "crime_statistics": {
           "theft": 4,
@@ -3037,505 +2803,58 @@ const delhidata =
       }
   },
   {
-      "count": 27,
-      "name": "Mundka",
-      "latitude": 28.6500,
-      "longitude": 77.0500,
+      "count": 59,
+      "name": "Sector 19",
+      "latitude": 28.5800,
+      "longitude": 77.3100,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 10,
+          "theft": 11,
           "murder": 1,
-          "rape": 1,
-          "total_crimes": 12
+          "rape": 2,
+          "total_crimes": 14
       }
   },
   {
-      "count": 28,
-      "name": "Narela",
-      "latitude": 28.7500,
-      "longitude": 77.1000,
+      "count": 60,
+      "name": "Sector 22",
+      "latitude": 28.5900,
+      "longitude": 77.3300,
       "safety_grade": "C",
       "crime_statistics": {
-          "theft": 20,
+          "theft": 16,
           "murder": 2,
           "rape": 3,
-          "total_crimes": 25
+          "total_crimes": 21
       }
   },
   {
-      "count": 29,
-      "name": "Kapashera",
-      "latitude": 28.5500,
-      "longitude": 77.1000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 8,
-          "murder": 0,
-          "rape": 1,
-          "total_crimes": 9
-      }
-  },
-  {
-      "count": 30,
-      "name": "Sangam Vihar",
-      "latitude": 28.5000,
-      "longitude": 77.2000,
-      "safety_grade": "C",
-      "crime_statistics": {
-          "theft": 30,
-          "murder": 4,
-          "rape": 5,
-          "total_crimes": 39
-      }
-  },
-  {
-      "count": 31,
-      "name": "Khanpur",
-      "latitude": 28.5500,
-      "longitude": 77.2000,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 10,
-          "murder": 1,
-          "rape": 1,
-          "total_crimes": 12
-      }
-  },
-  {
-      "count": 32,
-      "name": "Moti Nagar",
-      "latitude": 28.6500,
-      "longitude": 77.1500,
-      "safety_grade": "B",
-      "crime_statistics": {
-          "theft": 15,
-          "murder": 1,
-          "rape": 2,
-          "total_crimes": 18
-      }
-  },
-  {
-      "count": 33,
-      "name": "Rajouri Garden",
-      "latitude": 28.6400,
-      "longitude": 77.1500,
+      "count": 61,
+      "name": "Sector 30",
+      "latitude": 28.5800,
+      "longitude": 77.3400,
       "safety_grade": "A",
       "crime_statistics": {
-          "theft": 5,
+          "theft": 6,
           "murder": 0,
           "rape": 1,
-          "total_crimes": 6
+          "total_crimes": 7
       }
   },
   {
-      "count": 34,
-      "name": "Vikaspuri",
-      "latitude": 28.6000,
-      "longitude": 77.2000,
+      "count": 62,
+      "name": "Sector 35",
+      "latitude": 28.5700,
+      "longitude": 77.3500,
       "safety_grade": "B",
       "crime_statistics": {
-          "theft": 12,
+          "theft": 14,
           "murder": 1,
           "rape": 2,
-          "total_crimes": 15
+          "total_crimes": 17
       }
   }
-,
-    {
-        "count": 1,
-        "name": "Sector 18",
-        "latitude": 28.5700,
-        "longitude": 77.3200,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 12,
-            "murder": 1,
-            "rape": 2,
-            "total_crimes": 15
-        }
-    },
-    {
-        "count": 2,
-        "name": "Sector 62",
-        "latitude": 28.5850,
-        "longitude": 77.3700,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 8,
-            "murder": 0,
-            "rape": 1,
-            "total_crimes": 9
-        }
-    },
-    {
-        "count": 3,
-        "name": "Sector 50",
-        "latitude": 28.5700,
-        "longitude": 77.3300,
-        "safety_grade": "C",
-        "crime_statistics": {
-            "theft": 20,
-            "murder": 2,
-            "rape": 3,
-            "total_crimes": 25
-        }
-    },
-    {
-        "count": 4,
-        "name": "Sector 15",
-        "latitude": 28.5800,
-        "longitude": 77.3200,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 15,
-            "murder": 1,
-            "rape": 0,
-            "total_crimes": 16
-        }
-    },
-    {
-        "count": 5,
-        "name": "Sector 12",
-        "latitude": 28.5900,
-        "longitude": 77.3200,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 5,
-            "murder": 0,
-            "rape": 1,
-            "total_crimes": 6
-        }
-    }
-,
-    {
-        "count": 6,
-        "name": "Sector 63",
-        "latitude": 28.5900,
-        "longitude": 77.3700,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 7,
-            "murder": 0,
-            "rape": 0,
-            "total_crimes": 7
-        }
-    },
-    {
-        "count": 7,
-        "name": "Sector 71",
-        "latitude": 28.5900,
-        "longitude": 77.4000,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 10,
-            "murder": 1,
-            "rape": 1,
-            "total_crimes": 12
-        }
-    },
-    {
-        "count": 8,
-        "name": "Sector 34",
-        "latitude": 28.5800,
-        "longitude": 77.3500,
-        "safety_grade": "C",
-        "crime_statistics": {
-            "theft": 18,
-            "murder": 2,
-            "rape": 4,
-            "total_crimes": 24
-        }
-    },
-    {
-        "count": 9,
-        "name": "Sector 14",
-        "latitude": 28.5900,
-        "longitude": 77.3100,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 3,
-            "murder": 0,
-            "rape": 0,
-            "total_crimes": 3
-        }
-    },
-    {
-        "count": 10,
-        "name": "Sector 27",
-        "latitude": 28.5800,
-        "longitude": 77.3200,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 9,
-            "murder": 1,
-            "rape": 1,
-            "total_crimes": 11
-        }
-    }
-,   {
-        "count": 11,
-        "name": "Sector 21",
-        "latitude": 28.5900,
-        "longitude": 77.3200,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 4,
-            "murder": 0,
-            "rape": 0,
-            "total_crimes": 4
-        }
-    },
-    {
-        "count": 12,
-        "name": "Sector 19",
-        "latitude": 28.5800,
-        "longitude": 77.3100,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 11,
-            "murder": 1,
-            "rape": 2,
-            "total_crimes": 14
-        }
-    },
-    {
-        "count": 13,
-        "name": "Sector 22",
-        "latitude": 28.5900,
-        "longitude": 77.3300,
-        "safety_grade": "C",
-        "crime_statistics": {
-            "theft": 16,
-            "murder": 2,
-            "rape": 3,
-            "total_crimes": 21
-        }
-    },
-    {
-        "count": 14,
-        "name": "Sector 30",
-        "latitude": 28.5800,
-        "longitude": 77.3400,
-        "safety_grade": "A",
-        "crime_statistics": {
-            "theft": 6,
-            "murder": 0,
-            "rape": 1,
-            "total_crimes": 7
-        }
-    },
-    {
-        "count": 15,
-        "name": "Sector 35",
-        "latitude": 28.5700,
-        "longitude": 77.3500,
-        "safety_grade": "B",
-        "crime_statistics": {
-            "theft": 14,
-            "murder": 1,
-            "rape": 2,
-            "total_crimes": 17
-        }}
-   ,{
-          "count": 1,
-          "name": "Sector 18",
-          "latitude": 28.5700,
-          "longitude": 77.3200,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 12,
-              "murder": 1,
-              "rape": 2,
-              "total_crimes": 15
-          }
-      },
-      {
-          "count": 2,
-          "name": "Sector 62",
-          "latitude": 28.5850,
-          "longitude": 77.3700,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 8,
-              "murder": 0,
-              "rape": 1,
-              "total_crimes": 9
-          }
-      },
-      {
-          "count": 3,
-          "name": "Sector 50",
-          "latitude": 28.5700,
-          "longitude": 77.3300,
-          "safety_grade": "C",
-          "crime_statistics": {
-              "theft": 20,
-              "murder": 2,
-              "rape": 3,
-              "total_crimes": 25
-          }
-      },
-      {
-          "count": 4,
-          "name": "Sector 15",
-          "latitude": 28.5800,
-          "longitude": 77.3200,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 15,
-              "murder": 1,
-              "rape": 0,
-              "total_crimes": 16
-          }
-      },
-      {
-          "count": 5,
-          "name": "Sector 12",
-          "latitude": 28.5900,
-          "longitude": 77.3200,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 5,
-              "murder": 0,
-              "rape": 1,
-              "total_crimes": 6
-          }
-      }
-,
-      {
-          "count": 6,
-          "name": "Sector 63",
-          "latitude": 28.5900,
-          "longitude": 77.3700,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 7,
-              "murder": 0,
-              "rape": 0,
-              "total_crimes": 7
-          }
-      },
-      {
-          "count": 7,
-          "name": "Sector 71",
-          "latitude": 28.5900,
-          "longitude": 77.4000,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 10,
-              "murder": 1,
-              "rape": 1,
-              "total_crimes": 12
-          }
-      },
-      {
-          "count": 8,
-          "name": "Sector 34",
-          "latitude": 28.5800,
-          "longitude": 77.3500,
-          "safety_grade": "C",
-          "crime_statistics": {
-              "theft": 18,
-              "murder": 2,
-              "rape": 4,
-              "total_crimes": 24
-          }
-      },
-      {
-          "count": 9,
-          "name": "Sector 14",
-          "latitude": 28.5900,
-          "longitude": 77.3100,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 3,
-              "murder": 0,
-              "rape": 0,
-              "total_crimes": 3
-          }
-      },
-      {
-          "count": 10,
-          "name": "Sector 27",
-          "latitude": 28.5800,
-          "longitude": 77.3200,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 9,
-              "murder": 1,
-              "rape": 1,
-              "total_crimes": 11
-          }
-      }
-
-  ,
-      {
-          "count": 11,
-          "name": "Sector 21",
-          "latitude": 28.5900,
-          "longitude": 77.3200,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 4,
-              "murder": 0,
-              "rape": 0,
-              "total_crimes": 4
-          }
-      },
-      {
-          "count": 12,
-          "name": "Sector 19",
-          "latitude": 28.5800,
-          "longitude": 77.3100,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 11,
-              "murder": 1,
-              "rape": 2,
-              "total_crimes": 14
-          }
-      },
-      {
-          "count": 13,
-          "name": "Sector 22",
-          "latitude": 28.5900,
-          "longitude": 77.3300,
-          "safety_grade": "C",
-          "crime_statistics": {
-              "theft": 16,
-              "murder": 2,
-              "rape": 3,
-              "total_crimes": 21
-          }
-      },
-      {
-          "count": 14,
-          "name": "Sector 30",
-          "latitude": 28.5800,
-          "longitude": 77.3400,
-          "safety_grade": "A",
-          "crime_statistics": {
-              "theft": 6,
-              "murder": 0,
-              "rape": 1,
-              "total_crimes": 7
-          }
-      },
-      {
-          "count": 15,
-          "name": "Sector 35",
-          "latitude": 28.5700,
-          "longitude": 77.3500,
-          "safety_grade": "B",
-          "crime_statistics": {
-              "theft": 14,
-              "murder": 1,
-              "rape": 2,
-              "total_crimes": 17
-          }
-      }
-  ];
-
+]
     app.get("/indore", (req, res) => {
         res.json(Indore_Areas);
       
