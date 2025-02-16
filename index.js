@@ -2045,7 +2045,1101 @@ const Bhopal_Areas = [
       }
   }
 ];
-
+const delhidata = 
+[
+  {
+      "count": 1,
+      "name": "Connaught Place",
+      "latitude": 28.6278,
+      "longitude": 77.2197,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 2,
+      "name": "Chandni Chowk",
+      "latitude": 28.6550,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 3,
+      "name": "Karol Bagh",
+      "latitude": 28.6460,
+      "longitude": 77.2100,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 25,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 32
+      }
+  },
+  {
+      "count": 4,
+      "name": "South Extension",
+      "latitude": 28.5770,
+      "longitude": 77.2150,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 11
+      }
+  },
+  {
+      "count": 5,
+      "name": "Lajpat Nagar",
+      "latitude": 28.5800,
+      "longitude": 77.2390,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 18,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 21
+      }
+  },
+  {
+      "count": 6,
+      "name": "Dwarka",
+      "latitude": 28.5700,
+      "longitude": 77.0200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 5
+      }
+  },
+  {
+      "count": 7,
+      "name": "Vasant Kunj",
+      "latitude": 28.5500,
+      "longitude": 77.1300,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 8,
+      "name": "Greater Kailash",
+      "latitude": 28.5530,
+      "longitude": 77.2230,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  },
+  {
+      "count": 9,
+      "name": "Saket",
+      "latitude": 28.5530,
+      "longitude": 77.2500,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 6,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+      }
+  },
+  {
+      "count": 10,
+      "name": "Pitampura",
+      "latitude": 28.6500,
+      "longitude": 77.1500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 14,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 17
+      }
+  },
+  {
+      "count": 11,
+      "name": "Rohini",
+      "latitude": 28.7000,
+      "longitude": 77.1500,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 22,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 27
+      }
+  },
+  {
+      "count": 12,
+      "name": "Janakpuri",
+      "latitude": 28.6000,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 11
+      }
+  },
+  {
+      "count": 13,
+      "name": "Nehru Place",
+      "latitude": 28.5800,
+      "longitude": 77.2400,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 7,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 8
+      }
+  },
+  {
+      "count": 14,
+      "name": "Khan Market",
+      "latitude": 28.6000,
+      "longitude": 77.2200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 3,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 3
+      }
+  },
+  {
+      "count": 15,
+      "name": "Malviya Nagar",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 16,
+      "name": "Green Park",
+      "latitude": 28.5800,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 17,
+      "name": "Paharganj",
+      "latitude": 28.6400,
+      "longitude": 77.2100,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 30,
+          "murder": 4,
+          "rape": 5,
+          "total_crimes": 39
+      }
+  },
+  {
+      "count": 18,
+      "name": "Kashmere Gate",
+      "latitude": 28.6550,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 19,
+      "name": "Civil Lines",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 4,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 5
+      }
+  },
+  {
+      "count": 20,
+      "name": "Lodhi Colony",
+      "latitude": 28.5900,
+      "longitude": 77.2200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 2,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 2
+      }
+  },
+  {
+      "count": 21,
+      "name": "Shahdara",
+      "latitude": 28.6700,
+      "longitude": 77.3000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 28,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 35
+      }
+  },
+  {
+      "count": 22,
+      "name": "Sarai Rohilla",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 23,
+      "name": "Sultanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 6,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+      }
+  },
+  {
+      "count": 24,
+      "name": "Okhla",
+      "latitude": 28.5500,
+      "longitude": 77.3000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  },
+  {
+      "count": 25,
+      "name": "Faridabad",
+      "latitude": 28.4000,
+      "longitude": 77.3000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 35,
+          "murder": 5,
+          "rape": 6,
+          "total_crimes": 46
+      }
+  },
+  {
+      "count": 26,
+      "name": "Dwarka Sector 21",
+      "latitude": 28.5700,
+      "longitude": 77.0200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 4,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 4
+      }
+  },
+  {
+      "count": 27,
+      "name": "Mundka",
+      "latitude": 28.6500,
+      "longitude": 77.0500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 28,
+      "name": "Narela",
+      "latitude": 28.7500,
+      "longitude": 77.1000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 29,
+      "name": "Kapashera",
+      "latitude": 28.5500,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 30,
+      "name": "Sangam Vihar",
+      "latitude": 28.5000,
+      "longitude": 77.2000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 30,
+          "murder": 4,
+          "rape": 5,
+          "total_crimes": 39
+      }
+  },
+  {
+      "count": 31,
+      "name": "Khanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 32,
+      "name": "Moti Nagar",
+      "latitude": 28.6500,
+      "longitude": 77.1500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 33,
+      "name": "Rajouri Garden",
+      "latitude": 28.6400,
+      "longitude": 77.1500,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 34,
+      "name": "Vikaspuri",
+      "latitude": 28.6000,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  },
+  {
+      "count": 35,
+      "name": "Shalimar Bagh",
+      "latitude": 28.7000,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 3,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 3
+      }
+  },
+  {
+      "count": 36,
+      "name": "Keshav Puram",
+      "latitude": 28.7000,
+      "longitude": 77.2000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 25,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 32
+      }
+  },
+  {
+      "count": 37,
+      "name": "Bawana",
+      "latitude": 28.7500,
+      "longitude": 77.1000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 18,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 23
+      }
+  },
+  {
+      "count": 38,
+      "name": "Nangloi",
+      "latitude": 28.6500,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 39,
+      "name": "Khanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 40,
+      "name": "Sadar Bazar",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 41,
+      "name": "Kalkaji",
+      "latitude": 28.5500,
+      "longitude": 77.2500,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 42,
+      "name": "Chattarpur",
+      "latitude": 28.5000,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 43,
+      "name": "Sultanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 6,
+          " murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+      }
+  },
+  {
+      "count": 44,
+      "name": "Mandi House",
+      "latitude": 28.6200,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 13
+      }
+  },
+  {
+      "count": 45,
+      "name": "Rajendra Place",
+      "latitude": 28.6400,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 4,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 4
+      }
+  },
+  {
+      "count": 46,
+      "name": "Dwarka Sector 12",
+      "latitude": 28.5700,
+      "longitude": 77.0200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 3,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 3
+      }
+  },
+  {
+      "count": 47,
+      "name": "Kapashera",
+      "latitude": 28.5500,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 48,
+      "name": "Sarai Rohilla",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 49,
+      "name": "Sadar Bazar",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 50,
+      "name": "Chandni Chowk",
+      "latitude": 28.6550,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  }
+,
+  {
+      "count": 1,
+      "name": "Connaught Place",
+      "latitude": 28.6278,
+      "longitude": 77.2197,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 2,
+      "name": "Chandni Chowk",
+      "latitude": 28.6550,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 3,
+      "name": "Karol Bagh",
+      "latitude": 28.6460,
+      "longitude": 77.2100,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 25,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 32
+      }
+  },
+  {
+      "count": 4,
+      "name": "South Extension",
+      "latitude": 28.5770,
+      "longitude": 77.2150,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 11
+      }
+  },
+  {
+      "count": 5,
+      "name": "Lajpat Nagar",
+      "latitude": 28.5800,
+      "longitude": 77.2390,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 18,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 21
+      }
+  },
+  {
+      "count": 6,
+      "name": "Dwarka",
+      "latitude": 28.5700,
+      "longitude": 77.0200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 5
+      }
+  },
+  {
+      "count": 7,
+      "name": "Vasant Kunj",
+      "latitude": 28.5500,
+      "longitude": 77.1300,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 8,
+      "name": "Greater Kailash",
+      "latitude": 28.5530,
+      "longitude": 77.2230,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  },
+  {
+      "count": 9,
+      "name": "Saket",
+      "latitude": 28.5530,
+      "longitude": 77.2500,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 6,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+      }
+  },
+  {
+      "count": 10,
+      "name": "Pitampura",
+      "latitude": 28.6500,
+      "longitude": 77.1500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 14,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 17
+      }
+  },
+  {
+      "count": 11,
+      "name": "Rohini",
+      "latitude": 28.7000,
+      "longitude": 77.1500,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 22,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 27
+      }
+  },
+  {
+      "count": 12,
+      "name": "Janakpuri",
+      "latitude": 28.6000,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 11
+      }
+  },
+  {
+      "count": 13,
+      "name": "Nehru Place",
+      "latitude": 28.5800,
+      "longitude": 77.2400,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 7,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 8
+      }
+  },
+  {
+      "count": 14,
+      "name": "Khan Market",
+      "latitude": 28.6000,
+      "longitude": 77.2200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 3,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 3
+      }
+  },
+  {
+      "count": 15,
+      "name": "Malviya Nagar",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 16,
+      "name": "Green Park",
+      "latitude": 28.5800,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 17,
+      "name": "Paharganj",
+      "latitude": 28.6400,
+      "longitude": 77.2100,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 30,
+          "murder": 4,
+          "rape": 5,
+          "total_crimes": 39
+      }
+  },
+  {
+      "count": 18,
+      "name": "Kashmere Gate",
+      "latitude": 28.6550,
+      "longitude": 77.2300,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 19,
+      "name": "Civil Lines",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 4,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 5
+      }
+  },
+  {
+      "count": 20,
+      "name": "Lodhi Colony",
+      "latitude": 28.5900,
+      "longitude": 77.2200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 2,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 2
+      }
+  },
+  {
+      "count": 21,
+      "name": "Shahdara",
+      "latitude": 28.6700,
+      "longitude": 77.3000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 28,
+          "murder": 3,
+          "rape": 4,
+          "total_crimes": 35
+      }
+  },
+  {
+      "count": 22,
+      "name": "Sarai Rohilla",
+      "latitude": 28.6500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 23,
+      "name": "Sultanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 6,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 7
+      }
+  },
+  {
+      "count": 24,
+      "name": "Okhla",
+      "latitude": 28.5500,
+      "longitude": 77.3000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  },
+  {
+      "count": 25,
+      "name": "Faridabad",
+      "latitude": 28.4000,
+      "longitude": 77.3000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 35,
+          "murder": 5,
+          "rape": 6,
+          "total_crimes": 46
+      }
+  },
+  {
+      "count": 26,
+      "name": "Dwarka Sector 21",
+      "latitude": 28.5700,
+      "longitude": 77.0200,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 4,
+          "murder": 0,
+          "rape": 0,
+          "total_crimes": 4
+      }
+  },
+  {
+      "count": 27,
+      "name": "Mundka",
+      "latitude": 28.6500,
+      "longitude": 77.0500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 28,
+      "name": "Narela",
+      "latitude": 28.7500,
+      "longitude": 77.1000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 20,
+          "murder": 2,
+          "rape": 3,
+          "total_crimes": 25
+      }
+  },
+  {
+      "count": 29,
+      "name": "Kapashera",
+      "latitude": 28.5500,
+      "longitude": 77.1000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 8,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 9
+      }
+  },
+  {
+      "count": 30,
+      "name": "Sangam Vihar",
+      "latitude": 28.5000,
+      "longitude": 77.2000,
+      "safety_grade": "C",
+      "crime_statistics": {
+          "theft": 30,
+          "murder": 4,
+          "rape": 5,
+          "total_crimes": 39
+      }
+  },
+  {
+      "count": 31,
+      "name": "Khanpur",
+      "latitude": 28.5500,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 10,
+          "murder": 1,
+          "rape": 1,
+          "total_crimes": 12
+      }
+  },
+  {
+      "count": 32,
+      "name": "Moti Nagar",
+      "latitude": 28.6500,
+      "longitude": 77.1500,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 15,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 18
+      }
+  },
+  {
+      "count": 33,
+      "name": "Rajouri Garden",
+      "latitude": 28.6400,
+      "longitude": 77.1500,
+      "safety_grade": "A",
+      "crime_statistics": {
+          "theft": 5,
+          "murder": 0,
+          "rape": 1,
+          "total_crimes": 6
+      }
+  },
+  {
+      "count": 34,
+      "name": "Vikaspuri",
+      "latitude": 28.6000,
+      "longitude": 77.2000,
+      "safety_grade": "B",
+      "crime_statistics": {
+          "theft": 12,
+          "murder": 1,
+          "rape": 2,
+          "total_crimes": 15
+      }
+  }]
 
     app.get("/indore", (req, res) => {
         res.json(Indore_Areas);
@@ -2053,4 +3147,8 @@ const Bhopal_Areas = [
     });
     app.get("/bhopal",(req,res)=>{
       res.json(Bhopal_Areas);
+    })
+
+    app.get("/delhi",(req,res)=>{
+      res.json(delhidata);
     })
