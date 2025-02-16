@@ -3335,9 +3335,206 @@ const delhidata =
             "murder": 1,
             "rape": 2,
             "total_crimes": 17
-        }
-    }
-];
+        }}
+   ,{
+          "count": 1,
+          "name": "Sector 18",
+          "latitude": 28.5700,
+          "longitude": 77.3200,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 12,
+              "murder": 1,
+              "rape": 2,
+              "total_crimes": 15
+          }
+      },
+      {
+          "count": 2,
+          "name": "Sector 62",
+          "latitude": 28.5850,
+          "longitude": 77.3700,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 8,
+              "murder": 0,
+              "rape": 1,
+              "total_crimes": 9
+          }
+      },
+      {
+          "count": 3,
+          "name": "Sector 50",
+          "latitude": 28.5700,
+          "longitude": 77.3300,
+          "safety_grade": "C",
+          "crime_statistics": {
+              "theft": 20,
+              "murder": 2,
+              "rape": 3,
+              "total_crimes": 25
+          }
+      },
+      {
+          "count": 4,
+          "name": "Sector 15",
+          "latitude": 28.5800,
+          "longitude": 77.3200,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 15,
+              "murder": 1,
+              "rape": 0,
+              "total_crimes": 16
+          }
+      },
+      {
+          "count": 5,
+          "name": "Sector 12",
+          "latitude": 28.5900,
+          "longitude": 77.3200,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 5,
+              "murder": 0,
+              "rape": 1,
+              "total_crimes": 6
+          }
+      }
+,
+      {
+          "count": 6,
+          "name": "Sector 63",
+          "latitude": 28.5900,
+          "longitude": 77.3700,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 7,
+              "murder": 0,
+              "rape": 0,
+              "total_crimes": 7
+          }
+      },
+      {
+          "count": 7,
+          "name": "Sector 71",
+          "latitude": 28.5900,
+          "longitude": 77.4000,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 10,
+              "murder": 1,
+              "rape": 1,
+              "total_crimes": 12
+          }
+      },
+      {
+          "count": 8,
+          "name": "Sector 34",
+          "latitude": 28.5800,
+          "longitude": 77.3500,
+          "safety_grade": "C",
+          "crime_statistics": {
+              "theft": 18,
+              "murder": 2,
+              "rape": 4,
+              "total_crimes": 24
+          }
+      },
+      {
+          "count": 9,
+          "name": "Sector 14",
+          "latitude": 28.5900,
+          "longitude": 77.3100,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 3,
+              "murder": 0,
+              "rape": 0,
+              "total_crimes": 3
+          }
+      },
+      {
+          "count": 10,
+          "name": "Sector 27",
+          "latitude": 28.5800,
+          "longitude": 77.3200,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 9,
+              "murder": 1,
+              "rape": 1,
+              "total_crimes": 11
+          }
+      }
+
+  ,
+      {
+          "count": 11,
+          "name": "Sector 21",
+          "latitude": 28.5900,
+          "longitude": 77.3200,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 4,
+              "murder": 0,
+              "rape": 0,
+              "total_crimes": 4
+          }
+      },
+      {
+          "count": 12,
+          "name": "Sector 19",
+          "latitude": 28.5800,
+          "longitude": 77.3100,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 11,
+              "murder": 1,
+              "rape": 2,
+              "total_crimes": 14
+          }
+      },
+      {
+          "count": 13,
+          "name": "Sector 22",
+          "latitude": 28.5900,
+          "longitude": 77.3300,
+          "safety_grade": "C",
+          "crime_statistics": {
+              "theft": 16,
+              "murder": 2,
+              "rape": 3,
+              "total_crimes": 21
+          }
+      },
+      {
+          "count": 14,
+          "name": "Sector 30",
+          "latitude": 28.5800,
+          "longitude": 77.3400,
+          "safety_grade": "A",
+          "crime_statistics": {
+              "theft": 6,
+              "murder": 0,
+              "rape": 1,
+              "total_crimes": 7
+          }
+      },
+      {
+          "count": 15,
+          "name": "Sector 35",
+          "latitude": 28.5700,
+          "longitude": 77.3500,
+          "safety_grade": "B",
+          "crime_statistics": {
+              "theft": 14,
+              "murder": 1,
+              "rape": 2,
+              "total_crimes": 17
+          }
+      }
+  ];
 
     app.get("/indore", (req, res) => {
         res.json(Indore_Areas);
